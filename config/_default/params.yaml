@@ -15,15 +15,14 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: 'Laboratoire Jacques-Louis Lions'
-description: 'Liu-Di Lu - Laboratoire Jacques-Louis Lions'
+description: 'Jingrui NIU - Laboratoire Jacques-Louis Lions'
 keyword: 
-  - Liudi Lu
-  - Liu-di Lu
+  - Jingrui NIU
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: liudi.lu@inria.fr
+email: niu@ljll.math.upmc.fr
 # phone: 888 888 88 88
 address:
   street: 4 place Jussieu
@@ -35,7 +34,7 @@ address:
 coordinates:
   latitude: '48.84671025501151'
   longitude: '2.354895369311538'
-directions: Tour 15-16, Office 303
+directions: Tour 15-16, Office 305
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
