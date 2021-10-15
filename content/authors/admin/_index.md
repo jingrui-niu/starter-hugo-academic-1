@@ -1,41 +1,40 @@
 ---
 # Display name
-title: Liu-Di LU
+title: Jingrui NIU
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Candidate
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Laboratory Jacques-Louis Lions, Sorbonne University
-  url: "https://www.ljll.math.upmc.fr/?lang=en"
+- name: Laboratoire Jacques-Louis Lions, Sorbonne Université
+  url: "https://www.ljll.math.upmc.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include modelling, numerical analysis, optimization and control.
+bio: My research interests include control of PDEs, and microlocal analysis.
 
 # Interests to show in About widget
-interests: 
-  - Optimizations and control
-  - Numerical Analysis
-  - Modelling
-  - Model Order Reduction
+interests:
+- Microlocal Analysis 
+- Controllability and Stabilization of dispersive equations
+- Wave and Schrödinger Equations
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Applied Mathematics
-      institution: Sorbonne University (UPMC)
-      year: 2021
-    - course: Master in Mathematics and Applications
-      institution: Sorbonne University (UPMC)
-      year: 2018
-    - course: BSc in Mathematics
-      institution: University Claude Bernard Lyon 1
-      year: 2016
-
+  - course: PhD in Fundamental Mathematics
+    institution: Université Paris-Saclay
+    year: 2021
+  - course: Master in Mathematics and Applications
+    institution: Université Paris-Saclay
+    year: 2017
+  - course: BSc in Pure and Applied Mathematics
+    institution: Nankai University
+    year: 2014
+    
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -43,19 +42,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:liudi.lu@inria.fr"
-- icon: github
-  icon_pack: fab
-  link: https://github.com/liudi-lu
+  link: 'mailto:niu@ljll.math.upmc.fr'
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=oa2kys4AAAAJ&hl=en
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0003-3629-9879
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/柳磾-卢-0ba401136/?locale=en_US
+  link: https://orcid.org/0000-0003-0602-4444
 - icon: cv
   icon_pack: ai
-  link: uploads/CV.pdf
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -63,5 +59,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-I am currently a Ph.D candidate in Applied Mathematics at the [Laboratory Jacques-Louis Lions](https://www.ljll.math.upmc.fr/?lang=en), working under the supervison of [Julien Salomon](https://who.rocq.inria.fr/Julien.Salomon/index.php), [Jacques Sainte-Marie](https://team.inria.fr/ange/team-members/jacques-sainte-marie/) in the [INRIA team ANGE](https://team.inria.fr/ange/), and [Olivier Bernard](http://www-sop.inria.fr/members/Olivier.Bernard/) in the [INRIA team BIOCORE](https://team.inria.fr/biocore/). My research is principally devoted to modeling, control and optimisation of the industrial algal raceway ponds. Meanwhile, I also work on Model Order Reduction applied on PDE problems.
+I am currently a post-doc at Laboratoire Jacques Louis-Lions under the supervision of [Oana Ivanovici](https://anadel.math.cnrs.fr/members/ioana/). I am also a member of the project [ERC ANADEL](https://anadel.math.cnrs.fr/). I obtained my Ph.D. degree at Université Paris-Saclay under the supervision of [Nicolas Burq](https://www.imo.universite-paris-saclay.fr/~nb/) and [Pierre Lissy](https://www.ceremade.dauphine.fr/~lissy/eng-index.html).
