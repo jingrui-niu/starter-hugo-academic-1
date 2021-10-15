@@ -17,7 +17,7 @@ publication_types: ["3"]
 publication: "Preprint"
 publication_short: ""
 
-abstract: "In this paper, we study the simultaneous controllability of wave systems in an open domain. We obtain a partial controllability result on a finite co-dimensional space for wave equations coupled by a single control function. We use microlocal defect measures and the unique continuation property of eigenfunctions to prove that an appropriate observability inequality holds for wave equations with space varying and different speeds coupled by a single control function. For the unique continuation property of eigenfunctions, we construct a counterexample to show that in some metrics, the unique continuation property does not hold. Moreover, we study different conditions to ensure the unique continuation property. We also extend our result to the case of constant coefficients and possibly multiple control functions. In this context, we prove the controllability property is equivalent to an appropriate Kalman rank condition."
+abstract: "We consider an exact controllability problem in a smooth bounded domain, for a coupled wave system, with different speeds and a single control acting  on a subdomain satisfying the Geometric Control Condition and on one speed only. Actions for the wave equations with the second speed are obtained through a coupling term. Firstly, we construct appropriate state spaces with compatibility conditions associated with the coupling structure. Secondly, in these well-prepared spaces, we prove that the coupled wave system is exactly controllable if and only if the coupling structure satisfies an operator Kalman rank condition."
 
 # Summary. An optional shortened abstract.
 summary: ""
