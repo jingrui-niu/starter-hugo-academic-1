@@ -26,4 +26,4 @@ design:
 ## Université Paris-Dauphine
 
 
--Travaux dirigés de Géométrie et équations différentielles, Master 1 Mathématiques approfondies, 2020-2021.
+-TD de Géométrie et équations différentielles, Master 1 Mathématiques approfondies, 2020-2021.
