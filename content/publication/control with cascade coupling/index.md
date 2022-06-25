@@ -34,7 +34,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_preprint: "https://hal.archives-ouvertes.fr/hal-03682501"
+url_preprint: https://hal.archives-ouvertes.fr/hal-03682501
 url_code:
 url_dataset:
 url_poster:
