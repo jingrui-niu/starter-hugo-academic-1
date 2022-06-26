@@ -2,7 +2,7 @@
 title: "Simultaneous control of wave systems"
 authors: [admin]
 date: 2021-07-30T18:21:43+01:00
-doi: ""
+doi: "https://doi.org/10.1137/20M1320134"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-07-30T18:21:43+01:00
