@@ -43,3 +43,4 @@ title: 'Talks'
 
 - Shanghai, August 21, 2019, Fudan University:  *Microlocal methods on the controllability of wave equations*.
 - Nanjing, August 9, 2019, Nanjing University: *Simultaneous Control of Wave Systems*.
+- La Thuile, February 25, 2022, Workshop “Nonlinear Waves and Hamiltonian PDEs”: *The controllability of a special class of coupled wave systems*.
