@@ -11,16 +11,17 @@ role: Postdoctoral researcher
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Laboratoire Jacques-Louis Lions, Sorbonne Université
-  url: "https://www.ljll.math.upmc.fr/"
+  url: "https://www.ljll.fr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include control of PDEs, and microlocal analysis.
 
 # Interests to show in About widget
 interests:
+- Dispersive equations
 - Microlocal Analysis 
-- Controllability and Stabilization of dispersive equations
-- Wave and Schrödinger Equations
+- Controllability and Stabilization of dispersive equations and coupled systems
+- Control of quantum mechanical systems
 
 # Education to show in About widget
 education:
@@ -42,8 +43,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:niu@ljll.math.upmc.fr'
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  link: 'mailto:jingrui.niu@sorbonne-universite.fr'
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=oa2kys4AAAAJ&hl=en
 - icon: orcid
@@ -59,4 +60,5 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am currently a post-doc at Laboratoire Jacques Louis-Lions under the supervision of [Oana Ivanovici](https://anadel.math.cnrs.fr/members/ioana/). I am also a member of the project [ERC ANADEL](https://anadel.math.cnrs.fr/). I obtained my Ph.D. degree at Université Paris-Saclay under the supervision of [Nicolas Burq](https://www.imo.universite-paris-saclay.fr/~nb/) and [Pierre Lissy](https://www.ceremade.dauphine.fr/~lissy/eng-index.html).
+I am currently a post-doc at Laboratoire Jacques Louis-Lions under the supervision of [Ugo Boscain](https://www.ljll.fr/~boscain/) and [Mario Sigalotti](https://www.ljll.fr/sigalotti/). I am also a member of the [Inria Team CAGE](https://www.ljll.fr/~sigalotti/cage/home.html) and [Inria Team McTAO](https://team.inria.fr/mctao/). I obtained my Ph.D. degree at Université Paris-Saclay under the supervision of [Nicolas Burq](https://www.imo.universite-paris-saclay.fr/~nb/) and [Pierre Lissy](https://cermics.enpc.fr/~lissyp/).
+.
