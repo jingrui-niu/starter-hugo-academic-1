@@ -55,7 +55,7 @@ controllability and stability for KdV equations*.
   [Séminaire McTAO](https://team.inria.fr/mctao/seminaire-mctao-jingrui-niu-ljll-sorbonne-universite-19-octobre-2023/): *Local controllability of nonlinear Schrödinger equations on tori*, [**Slides**](media/McTaoSlides.pdf)
 - Tokyo, 22 August 2023\
   [ICIAM2023 Minisymposium“Control and stabilization of PDEs: recent advances and applications”](https://iciam2023.org/registered_data?id=00854): *The controllability of a special class of coupled wave systems*, [**Slides**](media/ICIAM.pdf)
-- Beijing Institut of Technology, 19 August 2023
+- Beijing Institut of Technology, 19 August 2023\
   [Invited talk](https://math.bit.edu.cn/docs/2023-08/c9d73b2acd5343d1aaa8efa3835ebd3f.pdf): *Controllability of nonlinear Schrödinger equations on tori*.
 - La Thuile, 25 February 2022\
   [Workshop “Nonlinear Waves and Hamiltonian PDEs”](https://anadel.math.cnrs.fr/workshops-and-conferences/lathuile2022/): *The controllability of a special class of coupled wave systems*, [**Slides**](media/LaThuile.pdf)
