@@ -61,4 +61,3 @@ email: ""
 highlight_name: false
 ---
 I am currently a post-doc at Laboratoire Jacques Louis-Lions under the supervision of [Ugo Boscain](https://www.ljll.fr/~boscain/) and [Mario Sigalotti](https://www.ljll.fr/sigalotti/). I am also a member of the [Inria Team CAGE](https://www.ljll.fr/~sigalotti/cage/home.html) and [Inria Team McTAO](https://team.inria.fr/mctao/). I obtained my Ph.D. degree at Université Paris-Saclay under the supervision of [Nicolas Burq](https://www.imo.universite-paris-saclay.fr/~nb/) and [Pierre Lissy](https://cermics.enpc.fr/~lissyp/).
-.
