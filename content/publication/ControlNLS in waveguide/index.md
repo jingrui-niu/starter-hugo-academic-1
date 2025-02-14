@@ -19,7 +19,7 @@ publication_short: ""
 
 abstract: "Strichartz estimates, well-posedness theory and long time behavior for (nonlinear) Schrödinger equations on waveguide manifolds are intensively studied in recent decades while the corresponding control theory and observability estimates remain incomplete. The purpose of this short paper is to investigate the observability and controllability for Schrödinger equations in the waveguide (semi-periodic) setting. 
 
-Our main result establishes local exact controllability for the cubic nonlinear Schrödinger equations (NLS) on $ \mathbb{R}^1 \times \mathbb{T}^2 $, under certain geometric conditions on the control region. To address the nonlinear control problem, we begin by analyzing the observability properties of the linear Schrödinger operator on a general waveguide manifold $ \mathbb{R}^m \times \mathbb{T}^n $. Utilizing $ H^s $ estimates of the Hilbert Uniqueness Method (HUM) operator and Bourgain spaces, we then prove local exact controllability through a fixed-point method."
+Our main result establishes local exact controllability for the cubic nonlinear Schrödinger equations (NLS) on $ R^1 \times T^2 $, under certain geometric conditions on the control region. To address the nonlinear control problem, we begin by analyzing the observability properties of the linear Schrödinger operator on a general waveguide manifold $ \mathbb{R}^m \times \mathbb{T}^n $. Utilizing $ H^s $ estimates of the Hilbert Uniqueness Method (HUM) operator and Bourgain spaces, we then prove local exact controllability through a fixed-point method."
 
 # Summary. An optional shortened abstract.
 summary: ""
