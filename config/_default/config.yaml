@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Jingrui NIU (牛景瑞) # Website name
-baseurl: 'https://www.ljll.math.upmc.fr/~niu/' # Website URL
+baseurl: 'https://www.ljll.fr/~niu/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
