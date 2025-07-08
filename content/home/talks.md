@@ -55,7 +55,7 @@ title: 'Talks'
   Invited talk: *Local controllability of nonlinear Schrödinger equations*.
   [**Slides**](media/nanjingslides.pdf)
 - Karlstad, 12 June 2024\
-  [Equadiff 2024 Minisymposium “Nonlinear waves in dispersive equations"]: *Quantitative
+  [Equadiff 2024 Minisymposium MS21 “Nonlinear waves in dispersive equations"](https://www.kau.se/equadiff-2024/about-conference/minisymposia): *Quantitative
 controllability and stability for KdV equations*.
 - Inria Sophia Antipolis, 19 October 2023\
   [Séminaire McTAO](https://team.inria.fr/mctao/seminaire-mctao-jingrui-niu-ljll-sorbonne-universite-19-octobre-2023/): *Local controllability of nonlinear Schrödinger equations on tori*, [**Slides**](media/mctaoslides.pdf)
