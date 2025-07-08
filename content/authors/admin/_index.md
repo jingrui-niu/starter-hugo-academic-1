@@ -53,6 +53,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/a/niu_j_2
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
