@@ -42,7 +42,7 @@ title: 'Talks'
 
 - Beijing Institute of Technology, Beijing, 28 April 2025\
   Online talk: *On the small-time controllability of KdV equations*,
-  [**Slides**](media/Nonlinear-KdV-Slide-BIT.pdf)
+  [**Slides**](media/kdv-bit.pdf)
 - Central South University, Changsha, 19 March 2025\
   Online talk: *On the small-time controllability of KdV equations*.
 - Northwest University, Xi'an, 30 December 2024\
@@ -53,17 +53,18 @@ title: 'Talks'
   PDE workshop: *Local controllability of nonlinear Schrödinger equations*.
 - Nanjing University, 2 August 2024\
   Invited talk: *Local controllability of nonlinear Schrödinger equations*.
+  [**Slides**](media/nanjingslides.pdf)
 - Karlstad, 12 June 2024\
   [Equadiff 2024 Minisymposium “Nonlinear waves in dispersive equations"]: *Quantitative
 controllability and stability for KdV equations*.
 - Inria Sophia Antipolis, 19 October 2023\
-  [Séminaire McTAO](https://team.inria.fr/mctao/seminaire-mctao-jingrui-niu-ljll-sorbonne-universite-19-octobre-2023/): *Local controllability of nonlinear Schrödinger equations on tori*, [**Slides**](media/McTaoSlides.pdf)
+  [Séminaire McTAO](https://team.inria.fr/mctao/seminaire-mctao-jingrui-niu-ljll-sorbonne-universite-19-octobre-2023/): *Local controllability of nonlinear Schrödinger equations on tori*, [**Slides**](media/mctaoslides.pdf)
 - Tokyo, 22 August 2023\
-  [ICIAM2023 Minisymposium“Control and stabilization of PDEs: recent advances and applications”](https://iciam2023.org/registered_data?id=00854): *The controllability of a special class of coupled wave systems*, [**Slides**](media/ICIAM.pdf)
+  [ICIAM2023 Minisymposium“Control and stabilization of PDEs: recent advances and applications”](https://iciam2023.org/registered_data?id=00854): *The controllability of a special class of coupled wave systems*, [**Slides**](media/iciam.pdf)
 - Beijing Institut of Technology, 19 August 2023\
   [Invited talk](https://math.bit.edu.cn/docs/2023-08/c9d73b2acd5343d1aaa8efa3835ebd3f.pdf): *Controllability of nonlinear Schrödinger equations on tori*.
 - La Thuile, 25 February 2022\
-  [Workshop “Nonlinear Waves and Hamiltonian PDEs”](https://anadel.math.cnrs.fr/workshops-and-conferences/lathuile2022/): *The controllability of a special class of coupled wave systems*, [**Slides**](media/LaThuile.pdf)
+  [Workshop “Nonlinear Waves and Hamiltonian PDEs”](https://anadel.math.cnrs.fr/workshops-and-conferences/lathuile2022/): *The controllability of a special class of coupled wave systems*, [**Slides**](media/lathuile.pdf)
 - Fudan University, 21 August 2019\
   [Invited talk](https://math.fudan.edu.cn/37/d0/c30472a407504/page.htm):  *Microlocal methods on the controllability of wave equations*.
 - Nanjing University, 9 August 2019\
