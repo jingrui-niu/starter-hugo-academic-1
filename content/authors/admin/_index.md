@@ -45,7 +45,7 @@ social:
   icon_pack: fas
   link: 'mailto:jingrui.niu@sorbonne-universite.fr'
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=oa2kys4AAAAJ&hl=en
 - icon: orcid
   icon_pack: fab
