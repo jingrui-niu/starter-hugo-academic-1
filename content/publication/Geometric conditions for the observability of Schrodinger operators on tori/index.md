@@ -1,5 +1,5 @@
 ---
-title: "Geometric condition for the observability of electromagnetic Schrödinger operators on $\mathbb{T}^2$"
+title: "Geometric condition for the observability of electromagnetic Schrödinger operators on T^2$"
 authors: [Kévin Le Balc'h, admin, Chenmin Sun]
 date: 2025-07-02T18:21:43+01:00
 doi: ""
