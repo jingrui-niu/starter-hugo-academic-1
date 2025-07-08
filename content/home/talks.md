@@ -40,6 +40,11 @@ title: 'Talks'
 #   view: 2
 ---
 
+- Beijing Institute of Technology, Beijing, 28 April 2025\
+  Online talk: *On the small-time controllability of KdV equations*,
+  [**Slides**](media/McTaoSlides.pdf)
+- Central South University, Changsha, 19 March 2025\
+  Online talk: *On the small-time controllability of KdV equations*.
 - Northwest University, Xi'an, 30 December 2024\
   Invited talk: *Control of wave equations and coupled wave systems*.
 - Laboratoire de Mathématiques de Besançon, 19 September 2024\
